@@ -1,0 +1,56 @@
+#sobre{  
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+#objetivos{
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+#habilidades{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+#projetos{
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+#area{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+#tecnologias{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
+#contato{
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 20px;
+}
